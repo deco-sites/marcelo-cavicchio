@@ -1,0 +1,48 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<p>E agora?</p>",
+      "cta": [
+        {
+          "href": "www.google.com.br",
+          "text": "Clique aqui, simples assim",
+          "outline": false,
+          "id": "ffsd"
+        }
+      ],
+      "description": "Você nao sabe o que fazer no marketing? Qual área se especializar? Quer entender qual caminho tomar na sua carreira? Calma, respira fundo, eu vou te ajudar."
+    },
+    {
+      "__resolveType": "site/sections/Theme/Theme.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Logos.tsx"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "placement": "right"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx"
+    },
+    {
+      "__resolveType": "site/sections/BlogPosts.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Testimonials.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Faq.tsx"
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
